@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Binder Template
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Matthias
+    family-names: Liffers
+    email: m@tthi.as
+    orcid: 'https://orcid.org/0000-0002-3639-2080'
+repository-code: 'https://github.com/mpfl/binder-template'
+license: MIT
